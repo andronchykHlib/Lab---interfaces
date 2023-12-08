@@ -1,0 +1,15 @@
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\bin\Debug\net7.0\LAB-interfaces.exe
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\bin\Debug\net7.0\LAB-interfaces.deps.json
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\bin\Debug\net7.0\LAB-interfaces.runtimeconfig.json
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\bin\Debug\net7.0\LAB-interfaces.dll
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\bin\Debug\net7.0\LAB-interfaces.pdb
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\obj\Debug\net7.0\LAB-interfaces.csproj.AssemblyReference.cache
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\obj\Debug\net7.0\LAB-interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\obj\Debug\net7.0\LAB-interfaces.AssemblyInfoInputs.cache
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\obj\Debug\net7.0\LAB-interfaces.AssemblyInfo.cs
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\obj\Debug\net7.0\LAB-interfaces.csproj.CoreCompileInputs.cache
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\obj\Debug\net7.0\LAB-interfaces.dll
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\obj\Debug\net7.0\refint\LAB-interfaces.dll
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\obj\Debug\net7.0\LAB-interfaces.pdb
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\obj\Debug\net7.0\LAB-interfaces.genruntimeconfig.cache
+D:\univ\OOP\LAB-interfaces\LAB-interfaces\obj\Debug\net7.0\ref\LAB-interfaces.dll
