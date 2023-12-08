@@ -27,7 +27,7 @@ public partial class MyFrac
     
     public MyFrac(string frac)
     {
-        if (!Regex.IsMatch(frac, "\\d+/\\d+"))
+        if (!Regex.IsMatch(frac, "(-)?\\d+/(-)\\d+"))
         {
             throw new Exception("Provided string is not compatible.");
         }

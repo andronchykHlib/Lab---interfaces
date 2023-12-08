@@ -1,13 +1,19 @@
-﻿namespace LAB_interfaces;
+﻿using System.Numerics;
+
+namespace LAB_interfaces;
 
 public partial class MyFrac : IComparable<MyFrac>
 {
     public int CompareTo(MyFrac? other)
     {
-        if (ReferenceEquals(this, other)) return 0;
-        if (ReferenceEquals(null, other)) return 1;
-        var nomComparison = nom.CompareTo(other.nom);
-        if (nomComparison != 0) return nomComparison;
-        return denom.CompareTo(other.denom);
+        if (other == null)
+        {
+            throw new NullReferenceException("Comparable value is null.");
+        }
+
+        BigInteger thisNumerator = nom * other.denom;
+        BigInteger otherNumerator = other.nom * denom;
+
+        return thisNumerator.CompareTo(otherNumerator);
     }
 }
