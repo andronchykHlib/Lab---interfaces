@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 
 namespace LAB_interfaces;
 
-public partial class MyFrac : IMyNumber<MyFrac>
+public partial class MyFrac
 {
     public MyFrac Add(MyFrac f)
     {

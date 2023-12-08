@@ -2,7 +2,7 @@
 
 namespace LAB_interfaces;
 
-public partial class MyComplex : IMyNumber<MyComplex>
+public partial class MyComplex
 {
     public MyComplex Add(MyComplex b)
     {

@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 
 namespace LAB_interfaces;
 
-public partial class MyFrac
+public partial class MyFrac : IMyNumber<MyFrac>
 {
     private BigInteger nom;
     private BigInteger denom;

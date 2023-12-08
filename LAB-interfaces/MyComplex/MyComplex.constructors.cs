@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 
 namespace LAB_interfaces;
 
-public partial class MyComplex
+public partial class MyComplex : IMyNumber<MyComplex>
 {
     private BigInteger re;
     private BigInteger im;
